@@ -32,11 +32,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
-DOM stands for Document Object Model and is a representation of the HTML elements of a webpage.
+DOM stands for Document Object Model and is a representation of the HTML elements of a webpage. Allowing you to modify the HTML page without touching the HTML files.
 
 1. What is an event?
 
-Every interaction a user has with a site is known as an event, such as a click, or keydown.
+Every interaction a user has with a site is known as an event, such as a click, or keydown. It triggers JS code.
 
 1. What is an event listener?
 
@@ -44,7 +44,7 @@ An Event Listener will take two arguments, first the event to listen for, and th
 
 1. Why would we convert a NodeList into an Array?
 
-You would convert a NodeList into an array to give you the opportunity to access multiple elements without a class or ID.
+You would convert a NodeList into an array to give you the opportunity to access multiple elements without a class or ID. Nodelists don't provide the same methods as arrays, so you convert it in order to use map, filter, etc.
 
 1. What is a component?
 
